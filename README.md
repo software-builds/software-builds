@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning terraforming, java and php constructions.
 - 👀 I’m looking to collaborate on big, small and own projects.
 
-<hr>
 <br />
 <div align="center">
     <h2 align="center">Software Builds</h2>
@@ -18,7 +17,6 @@
     >📦 Repositories</a>
 </div>
 <br />
-<hr>
 
 <!---
 lamacode/lamacode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
