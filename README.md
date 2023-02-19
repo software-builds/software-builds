@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @software-builds
 - 💞️ I’m interested in programming languages and techonolgies.
 - 🌱 I’m currently learning terraforming, java and php constructions.
-- 👀 I’m looking to collaborate on huge, small and own projects.
+- 👀 I’m looking to collaborate on big, small and own projects.
 
 <hr>
 <br />
