@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="left" height="150" src="robot.jpg"  />
+<img align="left" height="150" src="robot.png"  />
 
 <h3 align="right">I’m Phil, a junior web developer and oop programmer based in Münster, Germany.</h3>
 
