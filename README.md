@@ -43,13 +43,13 @@
 
 ## 🚀 Featured Projects
 
-- [**Simple JVM Database**](https://github.com/software-builds/SimpleDatabase/jvm-database)  
+- [**Simple JVM Database**](https://github.com/SimpleDatabase/jvm-database)  
   A lightweight database engine built in Kotlin for experimentation and learning.
 
-- [**Versatile Core API**](https://github.com/software-builds/versatile-core/vc-core-api)  
+- [**Versatile Core API**](https://github.com/versatile-core/vc-core-api)  
   Java-based modular API designed for extensibility in plugin-based systems.
 
-- [**Versatile Core Base**](https://github.com/software-builds/versatile-core/vc-core-base)  
+- [**Versatile Core Base**](https://github.com/versatile-core/vc-core-base)  
   Core logic and abstraction for handling modular backends.
 
 ---
