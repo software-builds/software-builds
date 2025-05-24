@@ -1,6 +1,6 @@
 <h2 align="left">Hi there 👋</h2>
 
-<img align="left" height="150" src="profile.jpeg" alt="Profile illustration" style="border-radius: 50%;" />
+<img align="left" src="profile.jpeg" alt="Profile illustration" height="150" width="150" />
 
 <h3 align="right">I'm Phil — a junior web developer and object-oriented programming enthusiast based in Münster, Germany.</h3>
 
