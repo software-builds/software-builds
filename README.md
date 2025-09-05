@@ -32,7 +32,7 @@
 | Category           | Tools & Technologies |
 |--------------------|----------------------|
 | **Languages**      | Java, Kotlin, PHP, JavaScript, TypeScript, Python, Go, Rust, Bash, SQL |
-| **Frameworks**     | Laravel, Next.js, Angular, React, Django |
+| **Frameworks**     | Laravel, Next.js, Angular, React, Django, Svelte/SvelteKit |
 | **Frontend**       | HTML5, CSS3, Tailwind CSS, React, Livewire |
 | **DevOps & Tools** | Docker, Solr, Jenkins, DigitalOcean, NGINX, Apache, Terraform, Git, Node, Composer, CI/CD |
 | **Databases**      | MySQL, MongoDB, SQLite, MariaDB, Redis |
