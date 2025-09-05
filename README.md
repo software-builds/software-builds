@@ -31,13 +31,13 @@
 
 | Category           | Tools & Technologies |
 |--------------------|----------------------|
-| **Languages**      | Java, Kotlin, PHP, JavaScript, TypeScript, Python, Go, Bash, SQL |
-| **Frameworks**     | Laravel, Next.js, React |
-| **Frontend**       | HTML5, CSS3, Tailwind CSS, React |
-| **DevOps & Tools** | Docker, Jenkins, DigitalOcean, NGINX, Terraform, Git, Composer, CI/CD |
-| **Databases**      | MySQL, MongoDB, SQLite, Redis |
-| **Platforms**      | Linux, macOS, Raspberry Pi, Arduino |
-| **Miscellaneous**  | Figma, Markdown, JetBrains, VSCode, Neovim |
+| **Languages**      | Java, Kotlin, PHP, JavaScript, TypeScript, Python, Go, Rust, Bash, SQL |
+| **Frameworks**     | Laravel, Next.js, Angular, React, Django |
+| **Frontend**       | HTML5, CSS3, Tailwind CSS, React, Livewire |
+| **DevOps & Tools** | Docker, Solr, Jenkins, DigitalOcean, NGINX, Apache, Terraform, Git, Node, Composer, CI/CD |
+| **Databases**      | MySQL, MongoDB, SQLite, MariaDB, Redis |
+| **Platforms**      | Linux, macOS, Windows, Raspberry Pi, Arduino |
+| **Miscellaneous**  | Figma, Markdown, LaTeX, JetBrains, VSCode, Neovim |
 
 ---
 
